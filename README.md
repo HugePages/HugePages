@@ -13,6 +13,16 @@
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" /> <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" />  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" /> <img src="https://img.shields.io/badge/-Notion-000?style=flat-square&logo=Notion&logoColor=white" />
 
+#### IDE
+
+#### Device
+
+#### Software
+
+#### Dev libs
+[![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](<[https://](https://www.spring.io/)>)
+
+
 
 
 #### Status 👋
