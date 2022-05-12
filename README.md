@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> 
 
 #### Investment 🔐
-<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/> <img src="https://img.shields.io/badge/Ethereum-ffffff?style=for-the-badge&logo=ethereum&logoColor=black"/> <img src="https://img.shields.io/badge/Nervos-239120?style=for-the-badge&logo=ckb&logoColor=green"/>
+<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/> <img src="https://img.shields.io/badge/Ethereum-ffffff?style=for-the-badge&logo=ethereum&logoColor=black"/> <img src="https://img.shields.io/badge/Nervos-239120?style=for-the-badge&logo=ckb&logoColor=green"/><img src="https://img.shields.io/badge/WOO-000000?style=for-the-badge&logo=woo&logoColor=white"/>
 
 #### Status 👋
 
