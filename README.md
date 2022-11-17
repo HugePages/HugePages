@@ -1,9 +1,9 @@
 
 <br><img src="https://raw.githubusercontent.com/HugePages/HugePages/main/gif.gif" >
 #### About Me 🥷🏻
-- 🔭 I’m currently working at xxx as a backend engineer.
+- 🔭 I’m currently working at 造甲(🤣) as a backend engineer.
 - 🌱 I’m currently learning [Golang](https://golang.org/) and [Rust](https://www.rust-lang.org).
-- 🛩️ How to reach me: [@JavaGoRust](https://twitter.com/JavaGoRust) and [oom](https://oom.world).
+- 🛩️ How to reach me: [@HugePages](https://twitter.com/HugePages) and [soul.icu](https://soul.icu).
 - 💬 [Ask me](https://github.com/HugePages/HugePages/issues) about something.
 
 #### Dev 👨🏽‍💻
