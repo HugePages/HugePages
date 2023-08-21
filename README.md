@@ -1,7 +1,7 @@
 
 <br><img src="https://raw.githubusercontent.com/HugePages/HugePages/main/gif.gif" >
 #### About Me 🥷🏻
-- 🔭 I’m currently working at 你试试(🤣) as a backend engineer.
+- 🔭 I’m currently working at AxxxIxxx(🤣) as a backend engineer.
 - 🌱 I’m currently learning [Golang](https://golang.org/) and [Rust](https://www.rust-lang.org).
 - 🛩️ How to reach me: [@OutOfGas](https://twitter.com/OutOfGas) and [soul.icu](https://soul.icu) and [Bento](https://bento.me/zy).
 - 💬 [Ask me](https://github.com/HugePages/HugePages/issues) about something.
