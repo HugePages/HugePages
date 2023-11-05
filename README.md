@@ -1,5 +1,3 @@
-
-<br><img src="https://raw.githubusercontent.com/l0z0l/l0z0l/main/gif1.gif" >  
 #### About Me 🥷🏻
 - 🔭 I’m currently working at XXXXXXX (🤣) as a backend engineer. 
 - 🌱 I’m currently learning [Golang](https://golang.org/) and [Rust](https://www.rust-lang.org). 
