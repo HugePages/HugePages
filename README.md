@@ -1,7 +1,7 @@
 #### About Me 🥷🏻
 - 🔭 I’m currently working at XXXXXXX (🤣) as a backend engineer. 
 - 🌱 I’m currently learning [Golang](https://golang.org/) and [Rust](https://www.rust-lang.org). 
-- 🛩️ How to reach me: [@LooooooooString](https://twitter.com/LooooooooString) and [soul.icu](https://soul.icu) and [Bento](https://bento.me/zy).
+- 🛩️ How to reach me: [@LoooooongString](https://twitter.com/LoooooongString) and [soul.icu](https://soul.icu) and [Bento](https://bento.me/zy).
 - 💬 [Ask me](https://github.com/l0z0l/l0z0l/issues) about something.  
 
 #### Dev 👨🏽‍💻
